@@ -35,7 +35,7 @@ export const BLOGS: Blog[] = [
       <p>As models continue to improve in reasoning capabilities and context understanding, we anticipate a future where AI systems can manage entire development sprints—from requirements gathering to deployment—with human developers providing high-level direction and ethical oversight. The role of the web developer will shift from writing every line of code to curating and guiding AI systems toward optimal solutions.</p>
     `,
     date: "Jan 01, 2025",
-    readTime: "5 min read",
+    readTime: "3 min read",
     category: "Technology",
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=800",
     tags: ["AI", "WebDev", "Future", "Innovation", "LLMs"]
@@ -158,7 +158,7 @@ const optimized = await optimizeImage(rawImage, { width: 800 });</code></pre>
       <p>The combination isn't just about raw performance—it's about building applications that feel instantaneous to users worldwide, regardless of their location or device. In an increasingly competitive digital landscape, these milliseconds matter.</p>
     `,
     date: "Dec 31, 2025",
-    readTime: "8 min read",
+    readTime: "5 min read",
     category: "Performance",
     image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?auto=format&fit=crop&q=80&w=800",
     tags: ["Rust", "Next.js", "Edge Computing", "WASM", "Performance", "Serverless"]
