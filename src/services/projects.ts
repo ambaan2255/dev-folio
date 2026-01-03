@@ -16,7 +16,7 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/r4cUScreenshot-2026-01-03-182713.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/O7pKaScreenshot-2026-01-03-182726.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Frontend",
+    category: "Fullstack",
     status: "Complete"
   },
   {
