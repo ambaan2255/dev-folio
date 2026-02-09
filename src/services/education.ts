@@ -7,30 +7,30 @@ export const EDUCATION: Education[] = [
     year: "2024 - Ongoing",
     grade: "___",
     description: "The urge to gain more knowledge day by day via self research and building test projects. I'm just a self learning dev during my free time",
-    institutionImage: "https://files.giftedtech.co.ke/image/ERNdgifted-md-nobg1.png?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
-    degree: "Bachelor of Business Management",
-    school: "Moi University - Eldoret, Kenya",
-    year: "2022 - Ongoing",
+    iTi: "sheet metal worker",
+    school: "kerala ITI collage - kerala, india",
+    year: "2023 - Ongoing",
     grade: "___",
     description: "Current Study Level(Undergraduate).",
-    institutionImage: "https://files.giftedtech.co.ke/image/Or8Moi_University_logo.jpg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
-    degree: "Kenya Certificate Of Secondary School",
-    school: "Got Agulu Boys School - Bondo, Kenya",
+    Highschool: "kerala certificate of Secondary School",
+    school: "Amrita sanskrit higher secondary School - kollam, kerala",
     year: "2017 - 2020",
-    grade: "GRADE: B-",
+    grade: "GRADE: A-",
     description: "Got above average performance, allowing me to proceed to higher learning institution.",
-    institutionImage: "https://files.giftedtech.co.ke/image/dQXimages.jpeg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
-    degree: "Kenya Certificate Of Primary School",
-    school: "Nyamira Mixed Primary and Junior Secondary School - Bondo, Kenya",
+    degree: "Kerala Certificate Of Primary School",
+    school: "Amrita Sanskrit higher Secondary School - kollam, kerala",
     year: "2008 - 2016",
     grade: "304 marks",
     description: "Got above average 304 marks out of 500 marks, allowing me to proceed to secondary school.",
-    institutionImage: "https://files.giftedtech.co.ke/image/2QScreenshot_20260101_051139_Chrome.jpg?auto=format&fit=crop&q=80&w=800"
+    institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   }
 ];
