@@ -13,7 +13,7 @@ export const BLOGS: Blog[] = [
       <p>The next evolutionary stage is AI-driven UI generation, where interfaces adapt in real-time based on user behavior, intent, and accessibility requirements. We're moving toward intelligent systems that don't just generate static components but create dynamic, context-aware interfaces that evolve with user needs.</p>
       
       <h3>Building AI-Native Applications</h3>
-      <p>At Maurice Gift, we're pioneering 'AI-Native' application architecture. This means AI isn't just a chatbot widget in the corner; it's a fundamental component of both the data orchestration layer and the UI presentation logic. Our approach involves:</p>
+      <p> we're pioneering 'AI-Native' application architecture. This means AI isn't just a chatbot widget in the corner; it's a fundamental component of both the data orchestration layer and the UI presentation logic. Our approach involves:</p>
       <ul>
         <li><strong>Intelligent Data Flow:</strong> AI agents that preprocess, categorize, and optimize data streams before they reach the UI</li>
         <li><strong>Adaptive UI Components:</strong> Interfaces that reconfigure themselves based on user proficiency, goals, and interaction patterns</li>
