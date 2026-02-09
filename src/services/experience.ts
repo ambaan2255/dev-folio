@@ -2,11 +2,11 @@ import { WorkExperience } from './types';
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: "GiftedTech Nexus",
+    company: "nova x0",
     position: "Lead Developer",
     duration: "2024 - Present",
-    location: "Eldoret, Kenya",
+    location: "Kerala, india",
     description: "Leading the development of apps for enterprise workflows. Spearheaded the integration of APIs, AI and high-performance vector databases to reduce search latency by 60%.",
-    companyImage: "https://files.giftedtech.co.ke/image/jjsScreenshot-2026-01-01-080005.png?auto=format&fit=crop&q=80&w=800"
+    companyImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   }
 ];
