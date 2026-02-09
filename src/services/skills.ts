@@ -21,13 +21,6 @@ export const SKILLS: Skill[] = [
   { name: "RedisDB", level: 45, category: "Database" },
   
   // CDN & Storage
-  { name: "AWS / R2", level: 80, category: "CDN" },
-  { name: "Cloudflare CDN", level: 85, category: "CDN" },
-  { name: "Cloudflare R2", level: 70, category: "CDN" },
-  { name: "Cloudflare Stream", level: 60, category: "CDN" },
-  { name: "Cloudflare Images", level: 65, category: "CDN" },
-  { name: "Vercel Blob", level: 90, category: "CDN" },
-  
   // PaaS & Hosting
   { name: "Heroku", level: 95, category: "PaaS" },
   { name: "Render", level: 90, category: "PaaS" },
