@@ -10,7 +10,7 @@ export const EDUCATION: Education[] = [
     institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
-    iTi: "sheet metal worker",
+    degree: "sheet metal worker(skil development course)",
     school: "kerala ITI collage - kerala, india",
     year: "2023 - Ongoing",
     grade: "___",
@@ -18,7 +18,7 @@ export const EDUCATION: Education[] = [
     institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
-    Highschool: "kerala certificate of Secondary School",
+    degree: "kerala certificate of Secondary School",
     school: "Amrita sanskrit higher secondary School - kollam, kerala",
     year: "2017 - 2020",
     grade: "GRADE: A-",
