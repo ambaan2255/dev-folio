@@ -14,7 +14,7 @@ export const EDUCATION: Education[] = [
     school: "kerala ITI collage - kerala, india",
     year: "2023 - Ongoing",
     grade: "___",
-    description: "Current Study Level(Undergraduate).",
+    description: "Got above average performance, allowing me to proceed to higher learning institution.",
     institutionImage: "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800"
   },
   {
