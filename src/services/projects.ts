@@ -6,8 +6,7 @@ export const PROJECTS: Project[] = [
     title: "Movies Api",
     description: "Complete access to movies, TV series, and streaming sources with Gifted Movies powerful REST API. The API comprises of features such as Optimized response times under 200ms for better UX, Enterprise-grade infrastructure with 99.9% uptime guarantee, Access download links in various qualities from 360p to 1080p, Get comprehensive information including trailers, cast, ratings, and descriptions, Search across thousands of movies and TV series with real-time results and Secure API access with Bearer token authentication.",
     techStack: ["Cloudflare", "Tailwind", "HTML", "CSS", "Vercel", "JavaScript"],
-    githubUrl: "https://github.com/mauricegift",
-    liveUrl: "https://movieapi.giftedtech.co.ke",
+    githubUrl: "https://github.com/ambaan2255",
     images: [
       "https://files.giftedtech.co.ke/image/OVKakScreenshot-2026-01-03-182532.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/xhT1Screenshot-2026-01-03-182625.png?auto=format&fit=crop&q=80&w=800",
@@ -16,7 +15,6 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/r4cUScreenshot-2026-01-03-182713.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/O7pKaScreenshot-2026-01-03-182726.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Fullstack",
     status: "Complete"
   },
   {
@@ -24,21 +22,19 @@ export const PROJECTS: Project[] = [
     title: "Dev Folio",
     description: "A modern smooth animated developer portfolio that is all device responsive. Helps developers to showcase their projects, share their skills and experiences, education journey and ability to create blogs as well. Has contact form that can get either submitted via email or whatsapp.",
     techStack: ["Typescript", "Vite", "Tailwind", "CDN", "Vercel", "React"],
-    githubUrl: "https://github.com/mauricegift/dev-folio",
-    liveUrl: "https://me.giftedtech.co.ke",
+    githubUrl: "https://github.com/ambaan/dev",
     images: [
-      "https://files.giftedtech.co.ke/image/jnVrScreenshot-2026-01-01-172905.png?auto=format&fit=crop&q=80&w=800",
+      "https://i.ibb.co/YB6yYcX9/b-AXgcs-XNu5.jpg?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/UwNHScreenshot-2026-01-01-172933.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/k7yUScreenshot-2026-01-01-172953.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/7EScreenshot-2026-01-01-173018.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/un2JDScreenshot-2026-01-01-173207.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Frontend",
     status: "Complete"
   },
   {
-    id: "shaddyzzcvs",
-    title: "Shaddyzz Cv's",
+    id: "Cv Maker",
+    title: "makes cv",
     description: "CV maker, ATS check, Cover Letter builder, and One-Click Job Tailoring to make your CV stand out to recruiters. Shaddyzz CV's helps Kenyan job seekers land interviews faster. Our AI-driven CV builder turns your skills and experience into a polished, ATS-friendly CV tailored to the exact job you want. They also offer interview prep, LinkedIn optimization, and career coaching designed for today's competitive job market — with a special focus on graduates, early-career professionals, and Kenyan opportunities. Shaddyzz CV's was born out of a passion to help fellow Kenyans navigate the job market with confidence. What started as helping friends with their CVs has grown into a platform serving thousands of job seekers.",
     techStack: ["Typescript", "Vite", "Supabase", "Tailwind", "Cloudflare", "Vercel", "Gemini"],
     githubUrl: "https://github.com/mauricegift",
@@ -50,7 +46,6 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/36fScreenshot-2026-01-01-084309.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/XKbSScreenshot-2026-01-01-084333.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Frontend",
     status: "In Progress"
   },
   {
@@ -71,7 +66,6 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/2Yg0SScreenshot-2026-01-01-073945.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/jcScreenshot-2026-01-01-074015.png?auto=format&fit=crop&q=80&w=800",
     ],
-    category: "Fullstack",
     status: "Completed"
   },
   {
@@ -87,7 +81,6 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/kiB4XScreenshot-2026-01-01-072847.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/RbShScreenshot-2026-01-01-072916.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Fullstack",
     status: "Completed"
   },
   {
@@ -103,7 +96,6 @@ export const PROJECTS: Project[] = [
       "https://files.giftedtech.co.ke/image/TlEDxScreenshot-2026-01-01-065832.png?auto=format&fit=crop&q=80&w=800",
       "https://files.giftedtech.co.ke/image/ZAwScreenshot-2026-01-01-065807.png?auto=format&fit=crop&q=80&w=800"
     ],
-    category: "Fullstack",
     status: "Completed"
   }
 ];
