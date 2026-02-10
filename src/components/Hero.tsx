@@ -104,16 +104,16 @@ const Hero: React.FC = () => {
             <div 
               className={`text-lg sm:text-2xl text-gray-900 dark:text-white leading-relaxed font-bold max-w-2xl mx-auto sm:mx-0 transition-all duration-700 ease-out ${firstTextVisible ? 'translate-x-0 opacity-100' : '-translate-x-full opacity-0'}`}
             >
-              I'm <span className="text-indigo-600 dark:text-indigo-400">{DEV_INFO.name}</span>, a self-learned developer from Kenya. I'm still a student, currently in fourth year school of Business and economics taking Bachelor of Business Management at Moi University - Eldoret.
-              I have a passion for web development, app and software development, backend development and I love to learn new things. I'm also a tech enthusiast and I love to share my knowledge as well as collaborate with others.
+              I'm <span className="text-indigo-600 dark:text-indigo-400">{DEV_INFO.name}</span>, a self-learned developer from india. I'm still not a student, currently i am a jobseeker.
+              I have a passion for web development and app  development,  I like to learn new things. I like to share my knowledge as well as collaborate with others.
             </div>
 
             <div className="flex flex-wrap gap-4 sm:gap-6 justify-center sm:justify-start pt-4">
               <button onClick={() => window.dispatchEvent(new CustomEvent('navToProjects'))} className="w-full sm:w-auto px-8 sm:px-10 py-4 sm:py-5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-2xl font-black text-base sm:text-lg flex items-center justify-center gap-3 shadow-xl shadow-indigo-600/30 transition-all hover:scale-105 active:scale-95 uppercase tracking-widest">
-                Explore My Work
+                See My Work
               </button>
               <button onClick={() => window.dispatchEvent(new CustomEvent('navToContact'))} className="w-full sm:w-auto px-8 sm:px-10 py-4 sm:py-5 bg-white dark:bg-gray-800 text-gray-900 dark:text-white rounded-2xl font-black text-base sm:text-lg flex items-center justify-center gap-3 border-2 border-gray-200 dark:border-gray-700 shadow-sm transition-all hover:scale-105 active:scale-95 uppercase tracking-widest">
-                Get In Touch
+                Social help
               </button>
             </div>
 
@@ -121,7 +121,7 @@ const Hero: React.FC = () => {
             <div 
               className={`text-sm sm:text-lg text-gray-500 dark:text-gray-400 leading-relaxed max-w-2xl mx-auto sm:mx-0 font-light italic transition-all duration-700 ease-out ${secondTextVisible ? 'translate-x-0 opacity-100' : 'translate-x-full opacity-0'}`}
             >
-              Crafting scalable digital experiences with tech stack like React, Node.js, and AI. Specialized in distributed systems and high-performance UI components with a focus on enterprise-grade security. My journey in technology has been driven by curiosity and a desire to create meaningful solutions. I specialize in building responsive, accessible, and performant digital experiences that make an impact.
+             digital experiences with tech stack like React, Node.js, and AI. Specialized in distributed systems and high-performance UI components with a focus on enterprise-grade security. My journey in technology has been driven by curiosity and a desire to create meaningful solutions. I specialize in building responsive, accessible, and performant digital experiences that make an impact.
             </div>
           </div>
 
