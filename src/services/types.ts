@@ -8,14 +8,12 @@ export interface Project {
   behanceUrl?: string;
   dribbbleUrl?: string;
   images: string[];
-  category: 'Fullstack' | 'Frontend' | 'Backend' | 'AI';
   status: 'Completed' | 'In Progress' | 'Concept';
 }
 
 export interface Skill {
   name: string;
   level: number; // 0-100
-  category: 'Frontend' | 'Backend' | 'Database' | 'CDN' | 'PaaS' | 'DevOps' | 'AI' | 'Language';
 }
 
 export interface DeveloperInfo {
